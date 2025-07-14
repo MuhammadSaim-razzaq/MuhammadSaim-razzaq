@@ -56,9 +56,9 @@ Here are a few **highlight projects** (full code in pinned repos 👇):
 
 ## 📫 **Connect With Me**
 
-- 💼 [LinkedIn](https://www.linkedin.com/) <!-- add your link -->
+- 💼 [LinkedIn](https://www.linkedin.com/in/muhammad-saim-bb4864358/) <!-- add your link -->
 - 📂 [My Portfolio](#) <!-- link if you have Notion/website -->
-- ✉️ [Email](mailto:youremail@example.com) <!-- add your email -->
+- ✉️ [Email](saimrazzaq1103@gmail.com) <!-- add your email -->
 
 ---
 
