@@ -2,7 +2,7 @@
 
 🚀 **Aspiring Data Scientist | AI Engineer | Agentic AI Developer**
 
-🔍 **Location:** Open to opportunities in 🇬🇧 UK & 🇯🇵 Japan  
+🔍 **Location:** Open to opportunities 
 💡 **Focus Areas:** Data Science, Machine Learning, Deep Learning, NLP, LLMs, Agentic AI, MLOps, Cloud Deployment
 
 ---
